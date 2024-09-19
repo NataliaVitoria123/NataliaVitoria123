@@ -6,7 +6,7 @@ Sou aluna do componente curricular de Pensamento Computacional pela rede estadua
 
 Utilizo em aula a plataforma [Alura](https://www.alura.com.br/)
 
-###Voce pode entrar em contato comigo:
+### Voce pode entrar em contato comigo:
 
 natalia.vitoria.mendes@escola.pr.gov.br
 
