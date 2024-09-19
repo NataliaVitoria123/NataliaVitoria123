@@ -1,16 +1,13 @@
-## Hi there 👋
+**bem vindo ao meu perfil**
 
-<!--
-**NataliaVitoria123/NataliaVitoria123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Natalia Vitoria
 
-Here are some ideas to get you started:
+Sou aluna do componente curricular de Pensamento Computacional pela rede estadual de educação do Paraná.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Utilizo em aula a plataforma [Alura](https://www.alura.com.br/)
+
+###Voce pode entrar em contato comigo:
+
+natalia.vitoria.mendes@escola.pr.gov.br
+
+![](https://tenor.com/pt-BR/view/good-morning-funny-animals-insomnia-cat-tired-crazy-cute-gif-11458685)
